@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "xlsKami": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\aaaddress1\\Desktop\\Book1.xls"
+    }
+  }
+}
